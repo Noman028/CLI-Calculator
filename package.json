@@ -1,7 +1,7 @@
 {
   "name": "@noman028/cli-calculator",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple CLI Calculator for Node Project",
   "main": "index.js",
   "scripts": {
