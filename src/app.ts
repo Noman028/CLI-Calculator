@@ -75,4 +75,4 @@ else if (selectedOperator === Operator.Divide)
 
 }
 
-main();
+export default main;
